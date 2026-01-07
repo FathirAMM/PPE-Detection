@@ -1,0 +1,15 @@
+opencv-python
+ultralytics
+supervision
+huggingface-hub
+streamlit
+jupyter_bbox_widget
+gdown
+
+# YOLOE dependencies from subdirectories
+git+https://github.com/THU-MIG/yoloe.git#subdirectory=third_party/CLIP
+git+https://github.com/THU-MIG/yoloe.git#subdirectory=third_party/ml-mobileclip
+git+https://github.com/THU-MIG/yoloe.git#subdirectory=third_party/lvis-api
+git+https://github.com/THU-MIG/yoloe.git
+
+
